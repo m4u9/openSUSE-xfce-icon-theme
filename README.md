@@ -6,4 +6,6 @@ This is not a full icon theme but rather an add-on for Adwaita fixing missing ic
 
 Clone this repository and place the content in $HOME/.local/icons or /usr/share/icons
 
+## Usage
 
+Select openSUSE-xfce in Xfce Settings > Appearance > Icons
